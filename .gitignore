@@ -25,3 +25,15 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+*.jpg
+*.png
+*.pdf
+solution.html
+solution1.html
+solution2.html
+*.jpeg
+*.gif
+
+
+
