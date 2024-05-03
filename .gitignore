@@ -35,5 +35,12 @@ solution2.html
 *.jpeg
 *.gif
 
+**/Solution/
+**/assets/
+
+
+
+
+
 
 
