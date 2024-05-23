@@ -37,8 +37,8 @@ solution2.html
 
 **/Solution/
 **/assets/
-
-
+*.svg
+*.txt
 
 
 
